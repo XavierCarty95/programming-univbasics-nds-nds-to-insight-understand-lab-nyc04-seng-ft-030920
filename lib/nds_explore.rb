@@ -14,9 +14,10 @@ def print_first_directors_movie_titles
   while total_length < directors_database.length
     print directors_database[row_index][:name]
     row_index += 1
-    total_length += 1
+
 
   end
+  total_length +=1
 
 
 end
