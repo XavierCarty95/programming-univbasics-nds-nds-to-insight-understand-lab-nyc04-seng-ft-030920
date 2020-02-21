@@ -15,7 +15,7 @@ def print_first_directors_movie_titles
     puts total_length[row_index][:title]
     row_index += 1
 
-
+  end
   end
 
 
