@@ -17,7 +17,7 @@ def print_first_directors_movie_titles
 
 
   end
-total_length += 1
+
 
 
 end
