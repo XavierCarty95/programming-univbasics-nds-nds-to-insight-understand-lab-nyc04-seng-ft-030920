@@ -8,6 +8,4 @@ def pretty_print_nds(nds)
 
 end
 
-
-
-print_first_directors_movie_titles
+pretty_print_nds
