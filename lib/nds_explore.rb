@@ -15,7 +15,7 @@ def print_first_directors_movie_titles
     print directors_database[row_index][:movies][:title]
     row_index += 1
 
-
+ total_length += 1
   end
 
 
