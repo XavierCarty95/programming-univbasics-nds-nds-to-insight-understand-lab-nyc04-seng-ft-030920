@@ -8,4 +8,4 @@ def pretty_print_nds(nds)
 
 end
 
-pretty_print_nds
+pretty_print_nds(directors_database)
